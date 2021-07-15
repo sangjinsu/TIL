@@ -59,7 +59,8 @@ diff가 어떤 부분인지 알고 수정 사항을 남긴다.
   $ git diff HEAD HEAD~2
   ```
 
-  
 
+- git add, commit, push 취소하기
 
+  [블로그](https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html)
 
