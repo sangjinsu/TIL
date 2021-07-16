@@ -10,6 +10,7 @@
 
 | Date       | Record                  | Link                                                         |
 | ---------- | ----------------------- | ------------------------------------------------------------ |
+| 2021.07.16 | golang - api 사용       | [go](https://github.com/jinsuSang/TIL/blob/main/golang/api.md) |
 | 2021.07.16 | golang - crawler 크롤링 | [go](https://github.com/jinsuSang/TIL/blob/main/golang/crawler.md) |
 
 ## Markdown
@@ -22,8 +23,11 @@
 
 | Date       | Record                       | Link                                                         |
 | ---------- | ---------------------------- | ------------------------------------------------------------ |
+| 2021.07.16 | python - api 심화 사용       | [go](https://github.com/jinsuSang/TIL/blob/main/python/advanced_api.md) |
 | 2021.07.15 | python - api 사용            | [go](https://github.com/jinsuSang/TIL/blob/main/python/api.md) |
 | 2021.07.15 | python - 기초 문제 풀이      | [go](https://github.com/jinsuSang/TIL/blob/main/python/basic.md) |
 | 2021.07.15 | python - crawling 크롤링     | [go](https://github.com/jinsuSang/TIL/blob/main/python/crawling.md) |
 | 2021.07.15 | python - file read and write | [go](https://github.com/jinsuSang/TIL/blob/main/python/file_write.md) |
+
+
 
