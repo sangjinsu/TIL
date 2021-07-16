@@ -80,7 +80,7 @@ type Person struct {
 }
 
 func fetchAge(name string, url string, ch chan Person){
-	url += fmt.Sprintf("name=%s&", name)
+	url += fmt.Sprintf("name=%s", name)
 	response, err := http.Get(url)
 	if err != nil {
 		log.Fatal(err)
