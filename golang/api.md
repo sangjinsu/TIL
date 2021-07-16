@@ -71,6 +71,7 @@ import (
 	"io/ioutil"
 	"log"
 	"net/http"
+	"sync"
 )
 
 type Person struct {
@@ -80,6 +81,9 @@ type Person struct {
 }
 
 func fetchAge(name string, url string, ch chan Person){
+
+	defer wg.Done()
+
 	url += fmt.Sprintf("name=%s", name)
 	response, err := http.Get(url)
 	if err != nil {
@@ -101,7 +105,10 @@ func fetchAge(name string, url string, ch chan Person){
 	err = json.Unmarshal(jsonData, &person)
 
 	ch <- person
+	close(ch)
 }
+
+var wg sync.WaitGroup
 
 func main() {
 	names := []string{"tak", "tony", "eric", "musk"}
@@ -109,11 +116,16 @@ func main() {
 	url := "https://api.agify.io?"
 
 	ch := make(chan Person)
-	defer close(ch)
 
+	wg.Add(len(names))
 	for _, name := range names{
 		go fetchAge(name, url, ch)
 	}
+
+	go func() {
+		wg.Wait()
+		close(ch)
+	}()
 
 	for person := range ch {
 		age := person.Age
