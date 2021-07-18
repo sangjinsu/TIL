@@ -30,6 +30,7 @@
 
 | Date       | Record                       | Link                                                         |
 | ---------- | ---------------------------- | ------------------------------------------------------------ |
+| 2021.07.18 | python - class 기초          | [go](https://github.com/jinsuSang/TIL/blob/main/python/class_basic.md) |
 | 2021.07.17 | python - hangman 게임 만들기 | [go](https://github.com/jinsuSang/TIL/blob/main/python/hangman_game.md) |
 | 2021.07.16 | python - api 심화 사용       | [go](https://github.com/jinsuSang/TIL/blob/main/python/advanced_api.md) |
 | 2021.07.15 | python - api 사용            | [go](https://github.com/jinsuSang/TIL/blob/main/python/api.md) |
