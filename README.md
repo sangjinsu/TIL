@@ -30,6 +30,7 @@
 
 | Date       | Record                       | Link                                                         |
 | ---------- | ---------------------------- | ------------------------------------------------------------ |
+| 2021.07.18 | django - 프로젝트 설정       | [go](https://github.com/jinsuSang/TIL/blob/main/python/django_girls_first_project.md) |
 | 2021.07.18 | python - class 기초          | [go](https://github.com/jinsuSang/TIL/blob/main/python/class_basic.md) |
 | 2021.07.17 | python - hangman 게임 만들기 | [go](https://github.com/jinsuSang/TIL/blob/main/python/hangman_game.md) |
 | 2021.07.16 | python - api 심화 사용       | [go](https://github.com/jinsuSang/TIL/blob/main/python/advanced_api.md) |
