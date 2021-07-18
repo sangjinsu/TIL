@@ -39,5 +39,9 @@
 | 2021.07.15 | python - crawling 크롤링     | [go](https://github.com/jinsuSang/TIL/blob/main/python/crawling.md) |
 | 2021.07.15 | python - file read and write | [go](https://github.com/jinsuSang/TIL/blob/main/python/file_write.md) |
 
+## Statistics
 
+| Date       | Record        | Link                                                         |
+| ---------- | ------------- | ------------------------------------------------------------ |
+| 2021.07.18 | R - 상관 계수 | [go](https://github.com/jinsuSang/TIL/blob/main/statistics/correlation-coefficient.md) |
 
