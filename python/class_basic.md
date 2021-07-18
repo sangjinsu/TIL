@@ -1,4 +1,4 @@
-# Class
+# Class Basic
 
 ## 클래스 구조
 
