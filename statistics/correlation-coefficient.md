@@ -132,3 +132,4 @@ abline(h = 0)
 ```
 
 ![](./exam_scatterplot_circle_size.png)
+
