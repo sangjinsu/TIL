@@ -30,6 +30,9 @@
 
 | Date       | Record                       | Link                                                         |
 | ---------- | ---------------------------- | ------------------------------------------------------------ |
+| 2021.07.19 | python - 자료구조            | [go](https://github.com/jinsuSang/TIL/blob/main/python/container.md) |
+| 2021.07.19 | python - 기초 심화           | [go](https://github.com/jinsuSang/TIL/blob/main/python/python_basic.md) |
+| 2021.07.19 | python - 제어문              | [go](https://github.com/jinsuSang/TIL/blob/main/python/flow_control.md) |
 | 2021.07.18 | django - 프로젝트 설정       | [go](https://github.com/jinsuSang/TIL/blob/main/python/django_girls_first_project.md) |
 | 2021.07.18 | python - class 기초          | [go](https://github.com/jinsuSang/TIL/blob/main/python/class_basic.md) |
 | 2021.07.17 | python - hangman 게임 만들기 | [go](https://github.com/jinsuSang/TIL/blob/main/python/hangman_game.md) |
