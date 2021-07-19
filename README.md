@@ -3,7 +3,7 @@
 ## Algorithm
 - [**python**](https://github.com/jinsuSang/python-algorithm)
 - [**golang**](https://github.com/jinsuSang/golang-algorithm)
-- [**java/**](https://github.com/jinsuSang/java-algorithm)
+- [**java**](https://github.com/jinsuSang/java-algorithm)
 
 ## Book
 
