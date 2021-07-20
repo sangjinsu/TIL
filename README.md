@@ -35,6 +35,7 @@
 
 | Date       | Record                       | Link                                                         |
 | ---------- | ---------------------------- | ------------------------------------------------------------ |
+| 2021.07.19 | python - String 함수와 reverse            | [go](https://github.com/jinsuSang/TIL/blob/main/python/string_function_and_reverse.md) |
 | 2021.07.19 | python - 자료구조            | [go](https://github.com/jinsuSang/TIL/blob/main/python/container.md) |
 | 2021.07.19 | python - 기초 심화           | [go](https://github.com/jinsuSang/TIL/blob/main/python/python_basic.md) |
 | 2021.07.19 | python - 제어문              | [go](https://github.com/jinsuSang/TIL/blob/main/python/flow_control.md) |
