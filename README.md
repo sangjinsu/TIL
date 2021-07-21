@@ -39,20 +39,31 @@
 
 ## Python
 
-| Date       | Record                       | Link                                                         |
-| ---------- | ---------------------------- | ------------------------------------------------------------ |
+### Basic
+
+| Date       | Record                            | Link                                                         |
+| ---------- | --------------------------------- | ------------------------------------------------------------ |
+| 2021.07.21 | python - Error Exception Handling | [go](https://github.com/jinsuSang/TIL/blob/main/python/error_exception_handling.md) |
+| 2021.07.21 | python - functions                | [go](https://github.com/jinsuSang/TIL/blob/main/python/functions.md) |
+| 2021.07.20 | python - String 함수와 reverse    | [go](https://github.com/jinsuSang/TIL/blob/main/python/string_function_and_reverse.md) |
+| 2021.07.19 | python - 자료구조                 | [go](https://github.com/jinsuSang/TIL/blob/main/python/container.md) |
+| 2021.07.19 | python - 기초 심화                | [go](https://github.com/jinsuSang/TIL/blob/main/python/python_basic.md) |
+| 2021.07.19 | python - 제어문                   | [go](https://github.com/jinsuSang/TIL/blob/main/python/flow_control.md) |
+| 2021.07.17 | python - hangman 게임 만들기      | [go](https://github.com/jinsuSang/TIL/blob/main/python/hangman_game.md) |
+| 2021.07.16 | python - api 심화 사용            | [go](https://github.com/jinsuSang/TIL/blob/main/python/advanced_api.md) |
+| 2021.07.15 | python - api 사용                 | [go](https://github.com/jinsuSang/TIL/blob/main/python/api.md) |
+| 2021.07.15 | python - 기초 문제 풀이           | [go](https://github.com/jinsuSang/TIL/blob/main/python/basic.md) |
+| 2021.07.15 | python - crawling 크롤링          | [go](https://github.com/jinsuSang/TIL/blob/main/python/crawling.md) |
+| 2021.07.15 | python - file read and write      | [go](https://github.com/jinsuSang/TIL/blob/main/python/file_write.md) |
+
+### OOP
+
+| Date       | Record              | Link                                                         |
+| ---------- | ------------------- | ------------------------------------------------------------ |
 | 2021.07.20 | OOP - 클래스 메소드 | [go](https://github.com/jinsuSang/TIL/blob/main/python/class_based_methods.md) |
-| 2021.07.20 | python - String 함수와 reverse            | [go](https://github.com/jinsuSang/TIL/blob/main/python/string_function_and_reverse.md) |
-| 2021.07.19 | python - 자료구조            | [go](https://github.com/jinsuSang/TIL/blob/main/python/container.md) |
-| 2021.07.19 | python - 기초 심화           | [go](https://github.com/jinsuSang/TIL/blob/main/python/python_basic.md) |
-| 2021.07.19 | python - 제어문              | [go](https://github.com/jinsuSang/TIL/blob/main/python/flow_control.md) |
-| 2021.07.18 | OOP - class 기초        | [go](https://github.com/jinsuSang/TIL/blob/main/python/class_basic.md) |
-| 2021.07.17 | python - hangman 게임 만들기 | [go](https://github.com/jinsuSang/TIL/blob/main/python/hangman_game.md) |
-| 2021.07.16 | python - api 심화 사용       | [go](https://github.com/jinsuSang/TIL/blob/main/python/advanced_api.md) |
-| 2021.07.15 | python - api 사용            | [go](https://github.com/jinsuSang/TIL/blob/main/python/api.md) |
-| 2021.07.15 | python - 기초 문제 풀이      | [go](https://github.com/jinsuSang/TIL/blob/main/python/basic.md) |
-| 2021.07.15 | python - crawling 크롤링     | [go](https://github.com/jinsuSang/TIL/blob/main/python/crawling.md) |
-| 2021.07.15 | python - file read and write | [go](https://github.com/jinsuSang/TIL/blob/main/python/file_write.md) |
+| 021.07.18  | OOP - class 기초    | [go](https://github.com/jinsuSang/TIL/blob/main/python/class_basic.md) |
+
+
 
 ## Statistics
 
