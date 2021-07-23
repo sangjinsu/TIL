@@ -43,6 +43,7 @@
 
 | Date       | Record                                    | Link                                                         |
 | ---------- | ----------------------------------------- | ------------------------------------------------------------ |
+| 2021.07.23 | python - namedtuple 네임드 튜플           | [go](https://github.com/jinsuSang/TIL/blob/main/python/namedtuple.md) |
 | 2021.07.22 | python - Python Data Model \ Magic Method | [go](https://github.com/jinsuSang/TIL/blob/main/python/python_data_model.md) |
 | 2021.07.22 | python - Call by Object Reference         | [go](https://github.com/jinsuSang/TIL/blob/main/python/call_by_object_reference.md) |
 | 2021.07.21 | python - Error Exception Handling         | [go](https://github.com/jinsuSang/TIL/blob/main/python/error_exception_handling.md) |
