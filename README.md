@@ -38,8 +38,6 @@
 | ---------- | ----------- | ------------------------------------------------------------ |
 | 2021.07.25 | Status Code | [go](https://github.com/jinsuSang/TIL/blob/main/http/http-status-code.md) |
 
-
-
 ## Markdown
 
 | Date       | Record          | Link                                                         |
@@ -74,8 +72,6 @@
 | ---------- | ------------------- | ------------------------------------------------------------ |
 | 2021.07.20 | OOP - 클래스 메소드 | [go](https://github.com/jinsuSang/TIL/blob/main/python/class_based_methods.md) |
 | 021.07.18  | OOP - class 기초    | [go](https://github.com/jinsuSang/TIL/blob/main/python/class_basic.md) |
-
-
 
 ## Statistics
 
