@@ -30,9 +30,9 @@ abline(a=0, b=-5, col="blue")
 abline(a=0, b=-10, col="blue")
 ```
 
-![](C:/R/project/Statistics-learned-by-R/regression-analysis/changebyintercept.png)
+![](changebyintercept.png)
 
-![](C:/R/project/Statistics-learned-by-R/regression-analysis/changebyslope.png)
+![](changebyslope.png)
 
 ## 회귀분석을 하는 이유
 
@@ -44,7 +44,7 @@ abline(a=0, b=-10, col="blue")
 
 이유 : 독립변수를 통해 종속 변수를 알고자 할 때 회귀분석을 사용, 어떤 직선이 더 좋은가?
 
-![](C:/R/project/Statistics-learned-by-R/regression-analysis/straignt-line-comparison.png)
+![](straignt-line-comparison.png)
 
 ## RSS 잔차제곱합을 최소로 만든다는 의미
 
@@ -87,4 +87,4 @@ result
 abline(a = 0.0005164763, b = 0.9499521173, col="orange")
 ```
 
-![](C:/R/project/Statistics-learned-by-R/regression-analysis/regressionbyR.png)
+![](regressionbyR.png)
