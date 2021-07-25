@@ -75,7 +75,8 @@
 
 ## Statistics
 
-| Date       | Record        | Link                                                         |
-| ---------- | ------------- | ------------------------------------------------------------ |
-| 2021.07.18 | R - 상관 계수 | [go](https://github.com/jinsuSang/TIL/blob/main/statistics/correlation-coefficient.md) |
+| Date       | Record             | Link                                                         |
+| ---------- | ------------------ | ------------------------------------------------------------ |
+| 2021.07.25 | R - 회귀 분석 기초 | [go](https://github.com/jinsuSang/TIL/blob/main/statistics/regression/regression-analysis-basic.md) |
+| 2021.07.18 | R - 상관 계수      | [go](https://github.com/jinsuSang/TIL/blob/main/statistics/correlation-coefficient.md) |
 
