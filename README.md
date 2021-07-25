@@ -13,9 +13,10 @@
 | 2021.07.17 | Clean Code - 17. 냄새와 휴리스틱 | [go](https://github.com/jinsuSang/TIL/blob/main/book/Clean_Code/17.%20%EB%83%84%EC%83%88%EC%99%80%20%ED%9C%B4%EB%A6%AC%EC%8A%A4%ED%8B%B1.md) |
 
 ## Django
-| Date       | Record                 | Link                                                         |
-| ---------- | ---------------------- | ------------------------------------------------------------ |
-| 2021.07.18 | django - 프로젝트 설정 | [go](https://github.com/jinsuSang/TIL/blob/main/python/django_girls_first_project.md) |
+| Date       | Record                                                       | Link                                                         |
+| ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2021.07.25 | django girls tutorial - Post 모델 추가, 관리자, pythonanywhere 배포 |                                                              |
+| 2021.07.18 | django girls tutorial - 프로젝트 설정                        | [go](https://github.com/jinsuSang/TIL/blob/main/python/django_girls_first_project.md) |
 
 
 ## Git
