@@ -27,11 +27,11 @@
 
 ## Golang
 
-| Date       | Record                       | Link                                                         |
-| ---------- | ---------------------------- | ------------------------------------------------------------ |
-| 2021.07.25 | golang - word search program | [go](https://github.com/jinsuSang/wordsearch)                |
-| 2021.07.16 | golang - api 사용            | [go](https://github.com/jinsuSang/TIL/blob/main/golang/api.md) |
-| 2021.07.16 | golang - crawler 크롤링      | [go](https://github.com/jinsuSang/TIL/blob/main/golang/crawler.md) |
+| Date       | Record                                         | Link                                                         |
+| ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
+| 2021.07.25 | :heavy_check_mark:golang - word search program | [go](https://github.com/jinsuSang/wordsearch)                |
+| 2021.07.16 | golang - api 사용                              | [go](https://github.com/jinsuSang/TIL/blob/main/golang/api.md) |
+| 2021.07.16 | golang - crawler 크롤링                        | [go](https://github.com/jinsuSang/TIL/blob/main/golang/crawler.md) |
 
 ## HTTP
 
@@ -49,26 +49,27 @@
 
 ### Basic
 
-| Date       | Record                                    | Link                                                         |
-| ---------- | ----------------------------------------- | ------------------------------------------------------------ |
-| 2021.07.26 | python - 세트와 딕셔너리 함수             | [go](https://github.com/jinsuSang/TIL/blob/main/python/set_and_dictionary.md) |
-| 2021.07.26 | python - 리스트 함수                      | [go](https://github.com/jinsuSang/TIL/blob/main/python/list_functions.md) |
-| 2021.07.26 | python - 문자열 함수                      | [go](https://github.com/jinsuSang/TIL/blob/main/python/string_functions.md) |
-| 2021.07.23 | python - namedtuple 네임드 튜플           | [go](https://github.com/jinsuSang/TIL/blob/main/python/namedtuple.md) |
-| 2021.07.22 | python - Python Data Model \ Magic Method | [go](https://github.com/jinsuSang/TIL/blob/main/python/python_data_model.md) |
-| 2021.07.22 | python - Call by Object Reference         | [go](https://github.com/jinsuSang/TIL/blob/main/python/call_by_object_reference.md) |
-| 2021.07.21 | python - Error Exception Handling         | [go](https://github.com/jinsuSang/TIL/blob/main/python/error_exception_handling.md) |
-| 2021.07.21 | python - functions                        | [go](https://github.com/jinsuSang/TIL/blob/main/python/functions.md) |
-| 2021.07.20 | python - String 함수와 reverse            | [go](https://github.com/jinsuSang/TIL/blob/main/python/string_function_and_reverse.md) |
-| 2021.07.19 | python - 자료구조                         | [go](https://github.com/jinsuSang/TIL/blob/main/python/container.md) |
-| 2021.07.19 | python - 기초 심화                        | [go](https://github.com/jinsuSang/TIL/blob/main/python/python_basic.md) |
-| 2021.07.19 | python - 제어문                           | [go](https://github.com/jinsuSang/TIL/blob/main/python/flow_control.md) |
-| 2021.07.17 | python - hangman 게임 만들기              | [go](https://github.com/jinsuSang/TIL/blob/main/python/hangman_game.md) |
-| 2021.07.16 | python - api 심화 사용                    | [go](https://github.com/jinsuSang/TIL/blob/main/python/advanced_api.md) |
-| 2021.07.15 | python - api 사용                         | [go](https://github.com/jinsuSang/TIL/blob/main/python/api.md) |
-| 2021.07.15 | python - 기초 문제 풀이                   | [go](https://github.com/jinsuSang/TIL/blob/main/python/basic.md) |
-| 2021.07.15 | python - crawling 크롤링                  | [go](https://github.com/jinsuSang/TIL/blob/main/python/crawling.md) |
-| 2021.07.15 | python - file read and write              | [go](https://github.com/jinsuSang/TIL/blob/main/python/file_write.md) |
+| Date       | Record                                                      | Link                                                         |
+| ---------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
+| 2021.07.26 | :heavy_check_mark:python - Sequence 심화​                    | [go](https://github.com/jinsuSang/TIL/blob/main/python/sequence.md) |
+| 2021.07.26 | python - 세트와 딕셔너리 함수                               | [go](https://github.com/jinsuSang/TIL/blob/main/python/set_and_dictionary.md) |
+| 2021.07.26 | python - 리스트 함수                                        | [go](https://github.com/jinsuSang/TIL/blob/main/python/list_functions.md) |
+| 2021.07.26 | python - 문자열 함수                                        | [go](https://github.com/jinsuSang/TIL/blob/main/python/string_functions.md) |
+| 2021.07.23 | :heavy_check_mark:python - namedtuple 네임드 튜플           | [go](https://github.com/jinsuSang/TIL/blob/main/python/namedtuple.md) |
+| 2021.07.22 | :heavy_check_mark:python - Python Data Model \ Magic Method | [go](https://github.com/jinsuSang/TIL/blob/main/python/python_data_model.md) |
+| 2021.07.22 | :heavy_check_mark:python - Call by Object Reference         | [go](https://github.com/jinsuSang/TIL/blob/main/python/call_by_object_reference.md) |
+| 2021.07.21 | python - Error Exception Handling                           | [go](https://github.com/jinsuSang/TIL/blob/main/python/error_exception_handling.md) |
+| 2021.07.21 | python - functions                                          | [go](https://github.com/jinsuSang/TIL/blob/main/python/functions.md) |
+| 2021.07.20 | python - String 함수와 reverse                              | [go](https://github.com/jinsuSang/TIL/blob/main/python/string_function_and_reverse.md) |
+| 2021.07.19 | python - 자료구조                                           | [go](https://github.com/jinsuSang/TIL/blob/main/python/container.md) |
+| 2021.07.19 | python - 기초 심화                                          | [go](https://github.com/jinsuSang/TIL/blob/main/python/python_basic.md) |
+| 2021.07.19 | python - 제어문                                             | [go](https://github.com/jinsuSang/TIL/blob/main/python/flow_control.md) |
+| 2021.07.17 | python - hangman 게임 만들기                                | [go](https://github.com/jinsuSang/TIL/blob/main/python/hangman_game.md) |
+| 2021.07.16 | python - api 심화 사용                                      | [go](https://github.com/jinsuSang/TIL/blob/main/python/advanced_api.md) |
+| 2021.07.15 | python - api 사용                                           | [go](https://github.com/jinsuSang/TIL/blob/main/python/api.md) |
+| 2021.07.15 | python - 기초 문제 풀이                                     | [go](https://github.com/jinsuSang/TIL/blob/main/python/basic.md) |
+| 2021.07.15 | python - crawling 크롤링                                    | [go](https://github.com/jinsuSang/TIL/blob/main/python/crawling.md) |
+| 2021.07.15 | python - file read and write                                | [go](https://github.com/jinsuSang/TIL/blob/main/python/file_write.md) |
 
 ### OOP
 
