@@ -51,6 +51,9 @@
 
 | Date       | Record                                    | Link                                                         |
 | ---------- | ----------------------------------------- | ------------------------------------------------------------ |
+| 2021.07.26 | python - 세트와 딕셔너리 함수             | [go](https://github.com/jinsuSang/TIL/blob/main/python/set_and_dictionary.md) |
+| 2021.07.26 | python - 리스트 함수                      | [go](https://github.com/jinsuSang/TIL/blob/main/python/list_functions.md) |
+| 2021.07.26 | python - 문자열 함수                      | [go](https://github.com/jinsuSang/TIL/blob/main/python/string_functions.md) |
 | 2021.07.23 | python - namedtuple 네임드 튜플           | [go](https://github.com/jinsuSang/TIL/blob/main/python/namedtuple.md) |
 | 2021.07.22 | python - Python Data Model \ Magic Method | [go](https://github.com/jinsuSang/TIL/blob/main/python/python_data_model.md) |
 | 2021.07.22 | python - Call by Object Reference         | [go](https://github.com/jinsuSang/TIL/blob/main/python/call_by_object_reference.md) |
@@ -72,7 +75,7 @@
 | Date       | Record              | Link                                                         |
 | ---------- | ------------------- | ------------------------------------------------------------ |
 | 2021.07.20 | OOP - 클래스 메소드 | [go](https://github.com/jinsuSang/TIL/blob/main/python/class_based_methods.md) |
-| 021.07.18  | OOP - class 기초    | [go](https://github.com/jinsuSang/TIL/blob/main/python/class_basic.md) |
+| 2021.07.18 | OOP - class 기초    | [go](https://github.com/jinsuSang/TIL/blob/main/python/class_basic.md) |
 
 ## Statistics
 
