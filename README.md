@@ -51,6 +51,8 @@
 
 | Date       | Record                                                      | Link                                                         |
 | ---------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
+| 2021.07.26 | :heavy_check_mark:python - 데코레이터 패턴과 OOP 특징       | [go](https://github.com/jinsuSang/TIL/blob/main/python/decorator-and-oop-features.md) |
+| 2021.07.26 | pip - commands                                              | [go](https://github.com/jinsuSang/TIL/blob/main/python/pip_command.md) |
 | 2021.07.26 | :heavy_check_mark:python - Sequence 심화​                    | [go](https://github.com/jinsuSang/TIL/blob/main/python/sequence.md) |
 | 2021.07.26 | python - 세트와 딕셔너리 함수                               | [go](https://github.com/jinsuSang/TIL/blob/main/python/set_and_dictionary.md) |
 | 2021.07.26 | python - 리스트 함수                                        | [go](https://github.com/jinsuSang/TIL/blob/main/python/list_functions.md) |
