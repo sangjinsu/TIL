@@ -51,8 +51,8 @@
 
 | Date       | Record                                                      | Link                                                         |
 | ---------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
-| 2021.07.26 | :heavy_check_mark:python - 데코레이터 패턴과 OOP 특징       | [go](https://github.com/jinsuSang/TIL/blob/main/python/decorator-and-oop-features.md) |
-| 2021.07.26 | pip - commands                                              | [go](https://github.com/jinsuSang/TIL/blob/main/python/pip_command.md) |
+| 2021.07.28 | module and virtual environment                              | [go](https://github.com/jinsuSang/TIL/blob/main/python/module_and_venv.md) |
+| 2021.07.27 | pip - commands                                              | [go](https://github.com/jinsuSang/TIL/blob/main/python/pip_command.md) |
 | 2021.07.26 | :heavy_check_mark:python - Sequence 심화​                    | [go](https://github.com/jinsuSang/TIL/blob/main/python/sequence.md) |
 | 2021.07.26 | python - 세트와 딕셔너리 함수                               | [go](https://github.com/jinsuSang/TIL/blob/main/python/set_and_dictionary.md) |
 | 2021.07.26 | python - 리스트 함수                                        | [go](https://github.com/jinsuSang/TIL/blob/main/python/list_functions.md) |
@@ -75,10 +75,12 @@
 
 ### OOP
 
-| Date       | Record              | Link                                                         |
-| ---------- | ------------------- | ------------------------------------------------------------ |
-| 2021.07.20 | OOP - 클래스 메소드 | [go](https://github.com/jinsuSang/TIL/blob/main/python/class_based_methods.md) |
-| 2021.07.18 | OOP - class 기초    | [go](https://github.com/jinsuSang/TIL/blob/main/python/class_basic.md) |
+| Date       | Record                                             | Link                                                         |
+| ---------- | -------------------------------------------------- | ------------------------------------------------------------ |
+| 2021.07.28 | OOP - basic python OOP concept                     | [go](https://github.com/jinsuSang/TIL/blob/main/python/python_oop.md) |
+| 2021.07.27 | :heavy_check_mark:OOP - 데코레이터 패턴과 OOP 특징 | [go](https://github.com/jinsuSang/TIL/blob/main/python/decorator-and-oop-features.md) |
+| 2021.07.20 | OOP - 클래스 메소드                                | [go](https://github.com/jinsuSang/TIL/blob/main/python/class_based_methods.md) |
+| 2021.07.18 | OOP - class 기초                                   | [go](https://github.com/jinsuSang/TIL/blob/main/python/class_basic.md) |
 
 ## Statistics
 
