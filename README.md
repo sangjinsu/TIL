@@ -18,7 +18,6 @@
 | 2021.07.25 | django girls tutorial - Post 모델 추가, 관리자, pythonanywhere 배포 |                                                              |
 | 2021.07.18 | django girls tutorial - 프로젝트 설정                        | [go](https://github.com/jinsuSang/TIL/blob/main/python/django_girls_first_project.md) |
 
-
 ## Git
 
 | Date       | Record     | Link                                                        |
@@ -44,6 +43,10 @@
 | Date       | Record          | Link                                                         |
 | ---------- | --------------- | ------------------------------------------------------------ |
 | 2021.07.15 | 마크다운 사용법 | [go](https://github.com/jinsuSang/TIL/blob/main/markdown/markdown.md) |
+
+## KMOOC
+
+- [딥러닝의 깊이 있는 이해를 위한 머신러닝](https://github.com/jinsuSang/kmooc)
 
 ## Python
 
