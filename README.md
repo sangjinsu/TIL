@@ -38,15 +38,15 @@
 | ---------- | ----------- | ------------------------------------------------------------ |
 | 2021.07.25 | Status Code | [go](https://github.com/jinsuSang/TIL/blob/main/http/http-status-code.md) |
 
+## Machine Learing
+
+- [kmooc - 딥러닝의 깊이 있는 이해를 위한 머신러닝](https://github.com/jinsuSang/kmooc)
+
 ## Markdown
 
 | Date       | Record          | Link                                                         |
 | ---------- | --------------- | ------------------------------------------------------------ |
 | 2021.07.15 | 마크다운 사용법 | [go](https://github.com/jinsuSang/TIL/blob/main/markdown/markdown.md) |
-
-## KMOOC
-
-- [딥러닝의 깊이 있는 이해를 위한 머신러닝](https://github.com/jinsuSang/kmooc)
 
 ## Python
 
@@ -87,8 +87,10 @@
 
 ## Statistics
 
-| Date       | Record             | Link                                                         |
-| ---------- | ------------------ | ------------------------------------------------------------ |
-| 2021.07.25 | R - 회귀 분석 기초 | [go](https://github.com/jinsuSang/TIL/blob/main/statistics/regression/regression-analysis-basic.md) |
-| 2021.07.18 | R - 상관 계수      | [go](https://github.com/jinsuSang/TIL/blob/main/statistics/correlation-coefficient.md) |
+- [kmooc - 데이터 과학을 위한 R  프로그래밍](https://github.com/jinsuSang/kmooc)
+
+| Date       | Record                           | Link                                                         |
+| ---------- | -------------------------------- | ------------------------------------------------------------ |
+| 2021.07.25 | R로 배우는 통계 - 회귀 분석 기초 | [go](https://github.com/jinsuSang/TIL/blob/main/statistics/regression/regression-analysis-basic.md) |
+| 2021.07.18 | R로 배우는 통계 - 상관 계수      | [go](https://github.com/jinsuSang/TIL/blob/main/statistics/correlation-coefficient.md) |
 
