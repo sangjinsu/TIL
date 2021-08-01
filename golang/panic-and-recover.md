@@ -117,15 +117,15 @@ func main() {
   
   goroutine 1 [running]:
   main.scanDirectory(0xc0001201e0, 0x23)
-          C:/Users/sangjs/Documents/goworkspace/src/panic-and-recover/files.go:49 +0x2a6
+          C:/goworkspace/src/panic-and-recover/files.go:49 +0x2a6
   main.scanDirectory(0xc00013e0c0, 0x19)
-          C:/Users/sangjs/Documents/goworkspace/src/panic-and-recover/files.go:56 +0x1ec
+          C:/goworkspace/src/panic-and-recover/files.go:56 +0x1ec
   main.scanDirectory(0xc000106180, 0x12)
-          C:/Users/sangjs/Documents/goworkspace/src/panic-and-recover/files.go:56 +0x1ec
+          C:/goworkspace/src/panic-and-recover/files.go:56 +0x1ec
   main.scanDirectory(0xc000102080, 0xd)
-          C:/Users/sangjs/Documents/goworkspace/src/panic-and-recover/files.go:56 +0x1ec
+          C:/goworkspace/src/panic-and-recover/files.go:56 +0x1ec
   main.main()
-          C:/Users/sangjs/Documents/goworkspace/src/panic-and-recover/files.go:83 +0xc5
+          C:/goworkspace/src/panic-and-recover/files.go:83 +0xc5
   exit status 2
   
   ```
