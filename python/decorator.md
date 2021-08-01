@@ -16,7 +16,7 @@
 ### 시간 측정 클로저 (데코레이터)
 
 ```python
-mport time
+import time
 from operator import add, mul
 from functools import reduce
 
