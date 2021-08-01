@@ -28,6 +28,7 @@
 
 | Date       | Record                                         | Link                                                         |
 | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
+| 2021.08.01 | golang - panic and recover                     | [go](https://github.com/jinsuSang/panic-and-recover)         |
 | 2021.07.25 | :heavy_check_mark:golang - word search program | [go](https://github.com/jinsuSang/wordsearch)                |
 | 2021.07.16 | golang - api 사용                              | [go](https://github.com/jinsuSang/TIL/blob/main/golang/api.md) |
 | 2021.07.16 | golang - crawler 크롤링                        | [go](https://github.com/jinsuSang/TIL/blob/main/golang/crawler.md) |
