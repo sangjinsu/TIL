@@ -54,6 +54,9 @@
 
 | Date       | Record                                                      | Link                                                         |
 | ---------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
+| 2021.08.01 | 데코레이터                                                  | [go](https://github.com/jinsuSang/TIL/blob/main/python/decorator.md) |
+| 2021.08.01 | closure 기초 및 심화                                        | [go](https://github.com/jinsuSang/TIL/blob/main/python/closure_basic.md) / [go](https://github.com/jinsuSang/TIL/blob/main/python/closure_advance.md) |
+| 2021.08.01 | 일급함수 - first class, lambda, callable, partial           | [go](https://github.com/jinsuSang/TIL/blob/main/python/first_class_fetures_and_lambda_map_reduce_filter.md) |
 | 2021.07.28 | module and virtual environment                              | [go](https://github.com/jinsuSang/TIL/blob/main/python/module_and_venv.md) |
 | 2021.07.27 | pip - commands                                              | [go](https://github.com/jinsuSang/TIL/blob/main/python/pip_command.md) |
 | 2021.07.26 | :heavy_check_mark:python - Sequence 심화​                    | [go](https://github.com/jinsuSang/TIL/blob/main/python/sequence.md) |
