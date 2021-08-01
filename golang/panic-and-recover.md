@@ -1,7 +1,16 @@
 # Panic and Recover
 
-- 폴더 이름은 cmd 인자로 받아 사용합니다
-- second 폴더의 내부 파일이나 폴더는 접근 권한을 
+- 폴더 이름은 cmd에서 인자로 받아 사용합니다
+
+  ```bash
+  $ go run files.go /my_directory
+  ```
+
+  ```bash
+  $ ./files.exe /my_directory
+  ```
+
+- my_directory 폴더의 내부 파일이나 폴더는 접근 권한을 제한해야 패닉이 발생합니다
 
 ## panic 을 사용하지 않는 경우
 
@@ -118,7 +127,6 @@ func main() {
   main.main()
           C:/Users/sangjs/Documents/goworkspace/src/panic-and-recover/files.go:83 +0xc5
   exit status 2
-  
   
   ```
 
