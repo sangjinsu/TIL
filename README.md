@@ -12,7 +12,20 @@
 | 2021.07.17 | Clean Code - 부록A. 동시성 II    | [go](https://github.com/jinsuSang/TIL/blob/main/book/Clean_Code/%EB%B6%80%EB%A1%9DA.%20%EB%8F%99%EC%8B%9C%EC%84%B1%20II.md) |
 | 2021.07.17 | Clean Code - 17. 냄새와 휴리스틱 | [go](https://github.com/jinsuSang/TIL/blob/main/book/Clean_Code/17.%20%EB%83%84%EC%83%88%EC%99%80%20%ED%9C%B4%EB%A6%AC%EC%8A%A4%ED%8B%B1.md) |
 
+## CSS
+
+| Date       | Record                                      | Link                                                         |
+| ---------- | ------------------------------------------- | ------------------------------------------------------------ |
+| 2021.08.02 | selector                                    | [go](https://github.com/jinsuSang/TIL/blob/main/css/css_selector.md) |
+| 2021.08.02 | position: static, relative, absolute, fixed | [go](https://github.com/jinsuSang/TIL/blob/main/css/css_position.md) |
+| 2021.08.02 | display                                     | [go](https://github.com/jinsuSang/TIL/blob/main/css/css_display.md) |
+| 2021.08.02 | box model                                   | [go](https://github.com/jinsuSang/TIL/blob/main/css/css_box_model.md) |
+| 2021.08.02 | basic css                                   | [go](https://github.com/jinsuSang/TIL/blob/main/css/basic_css.md) |
+
+
+
 ## Django
+
 | Date       | Record                                                       | Link                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2021.07.25 | django girls tutorial - Post 모델 추가, 관리자, pythonanywhere 배포 |                                                              |
@@ -32,6 +45,12 @@
 | 2021.07.25 | :heavy_check_mark:golang - word search program | [go](https://github.com/jinsuSang/wordsearch)                |
 | 2021.07.16 | golang - api 사용                              | [go](https://github.com/jinsuSang/TIL/blob/main/golang/api.md) |
 | 2021.07.16 | golang - crawler 크롤링                        | [go](https://github.com/jinsuSang/TIL/blob/main/golang/crawler.md) |
+
+## HTML
+
+| Date       | Record     | Link                                                         |
+| ---------- | ---------- | ------------------------------------------------------------ |
+| 2021.08.02 | basic HTML | [go](https://github.com/jinsuSang/TIL/blob/main/html/html.md) |
 
 ## HTTP
 
