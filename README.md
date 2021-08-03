@@ -16,6 +16,8 @@
 
 | Date       | Record                                      | Link                                                         |
 | ---------- | ------------------------------------------- | ------------------------------------------------------------ |
+| 2021.08.03 | flex box                                    | [go](https://github.com/jinsuSang/TIL/blob/main/css/flex_box.md) |
+| 2021.08.03 | font-family, word-wrap, word-break          | [go](https://github.com/jinsuSang/TIL/blob/main/css/font_family_word_break_wrap.md) |
 | 2021.08.02 | selector                                    | [go](https://github.com/jinsuSang/TIL/blob/main/css/css_selector.md) |
 | 2021.08.02 | position: static, relative, absolute, fixed | [go](https://github.com/jinsuSang/TIL/blob/main/css/css_position.md) |
 | 2021.08.02 | display                                     | [go](https://github.com/jinsuSang/TIL/blob/main/css/css_display.md) |
