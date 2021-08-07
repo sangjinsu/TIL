@@ -16,6 +16,7 @@
 
 | Date       | Record                                      | Link                                                         |
 | ---------- | ------------------------------------------- | ------------------------------------------------------------ |
+| 2021.08.04 | float                                       | [go](https://github.com/jinsuSang/TIL/blob/main/css/float.md) |
 | 2021.08.03 | flex box                                    | [go](https://github.com/jinsuSang/TIL/blob/main/css/flex_box.md) |
 | 2021.08.03 | font-family, word-wrap, word-break          | [go](https://github.com/jinsuSang/TIL/blob/main/css/font_family_word_break_wrap.md) |
 | 2021.08.02 | selector                                    | [go](https://github.com/jinsuSang/TIL/blob/main/css/css_selector.md) |
