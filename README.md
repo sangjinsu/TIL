@@ -77,6 +77,8 @@
 
 | Date       | Record                                                      | Link                                                         |
 | ---------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
+| 2021.08.07 | itertools package                                           | [go](https://github.com/jinsuSang/TIL/blob/main/python/itertools.md) |
+| 2021.08.07 | iterator generator                                          | [go](https://github.com/jinsuSang/TIL/blob/main/python/iterator_generator.md) |
 | 2021.08.01 | 데코레이터                                                  | [go](https://github.com/jinsuSang/TIL/blob/main/python/decorator.md) |
 | 2021.08.01 | closure 기초 및 심화                                        | [go](https://github.com/jinsuSang/TIL/blob/main/python/closure_basic.md) / [go](https://github.com/jinsuSang/TIL/blob/main/python/closure_advance.md) |
 | 2021.08.01 | 일급함수 - first class, lambda, callable, partial           | [go](https://github.com/jinsuSang/TIL/blob/main/python/first_class_fetures_and_lambda_map_reduce_filter.md) |
