@@ -2,6 +2,7 @@
 
 ## Algorithm
 - [**python**](https://github.com/jinsuSang/python-algorithm)
+- [**javascript**](https://github.com/jinsuSang/javascript-algorithm)
 - [**golang**](https://github.com/jinsuSang/golang-algorithm)
 - [**java**](https://github.com/jinsuSang/java-algorithm)
 
