@@ -120,9 +120,9 @@
 
 | Date       | Record                                                       | Link                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2021.07.31 | R로 배우는 통계 - R에서의 회귀직선 함수 lm() 사용 및 결과 해석 | [go](https://github.com/jinsuSang/TIL/blob/main/statistics/regression-advance/regression-linear-lm.md) |
-| 2021.07.31 | R로 배우는 통계 - 회귀 직선 손으로 유도하기                  | [go](https://github.com/jinsuSang/TIL/blob/main/statistics/regression-advance/straight-line-of-regression-by-hand.pdf) |
-| 2021.07.31 | R로 배우는 통계 - 3차원 그래프를 이용한 회귀분석 해의 확인   | [go](https://github.com/jinsuSang/TIL/blob/main/statistics/regression-advance/check-result-using-3d.md) |
-| 2021.07.25 | R로 배우는 통계 - 회귀 분석 기초                             | [go](https://github.com/jinsuSang/TIL/blob/main/statistics/regression/regression-analysis-basic.md) |
-| 2021.07.18 | R로 배우는 통계 - 상관 계수                                  | [go](https://github.com/jinsuSang/TIL/blob/main/statistics/correlation-coefficient.md) |
+| 2021.07.31 | R로 배우는 통계 - R에서의 회귀직선 함수 lm() 사용 및 결과 해석 | [go](https://github.com/jinsuSang/TIL/blob/main/statistics/statistics-learned-by-r/regression-advance/regression-linear-lm.md) |
+| 2021.07.31 | R로 배우는 통계 - 회귀 직선 손으로 유도하기                  | [go](https://github.com/jinsuSang/TIL/blob/main/statistics/statistics-learned-by-r/regression-advance/straight-line-of-regression-by-hand.pdf) |
+| 2021.07.31 | R로 배우는 통계 - 3차원 그래프를 이용한 회귀분석 해의 확인   | [go](https://github.com/jinsuSang/TIL/blob/main/statistics/statistics-learned-by-r/regression-advance/check-result-using-3d.md) |
+| 2021.07.25 | R로 배우는 통계 - 회귀 분석 기초                             | [go](https://github.com/jinsuSang/TIL/blob/main/statistics/statistics-learned-by-r/regression/regression-analysis-basic.md) |
+| 2021.07.18 | R로 배우는 통계 - 상관 계수                                  | [go](https://github.com/jinsuSang/TIL/blob/main/statistics/statistics-learned-by-r/correlation-coefficient.md) |
 
