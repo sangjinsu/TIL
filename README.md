@@ -16,6 +16,7 @@
 
 | Date       | Record                                                | Link                                                         |
 | ---------- | ----------------------------------------------------- | ------------------------------------------------------------ |
+| 2021.08.11 | Inside Javascript - 03 배열                           | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter03-03-array.md) |
 | 2021.08.10 | Inside Javascript - 03 자바스크립트 프로토타입        | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter03-02-prototype.md) |
 | 2021.08.10 | Inside Javascript - 03 자바스크립트 기본 및 탐조 타입 | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter03-01-data-type.md) |
 | 2021.08.10 | Inside Javascript - 01 자바스크립트 기본 개요         | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter01.md) |
