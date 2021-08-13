@@ -6,11 +6,12 @@
 - [**golang**](https://github.com/jinsuSang/golang-algorithm)
 - [**java**](https://github.com/jinsuSang/java-algorithm)
 
-| Date       | Record                                    | Link                                                         |
-| ---------- | ----------------------------------------- | ------------------------------------------------------------ |
-| 2021.08.11 | 이진 검색, 선택 정렬, 선택 알고리즘       | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/02-binarySearch-selectionSorting-selectionAlgorithm.md) |
-| 2021.08.11 | 2차원 배열, 비트 연산자를 이용한 서브셋   | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/02-2dArray-subset.md) |
-| 2021.08.10 | 버블 정렬, 카운팅 정렬, 완전 탐색, greedy | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/01-algorithm.md) |
+| Date       | Record                                                    | Link                                                         |
+| ---------- | --------------------------------------------------------- | ------------------------------------------------------------ |
+| 2021.08.13 | string pattern - rabin-karp, kmp, boyer-moore, bruteforce | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/03-string-pattern-algorithm.md) |
+| 2021.08.11 | 이진 검색, 선택 정렬, 선택 알고리즘                       | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/02-binarySearch-selectionSorting-selectionAlgorithm.md) |
+| 2021.08.11 | 2차원 배열, 비트 연산자를 이용한 서브셋                   | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/02-2dArray-subset.md) |
+| 2021.08.10 | 버블 정렬, 카운팅 정렬, 완전 탐색, greedy                 | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/01-algorithm.md) |
 
 ## Book
 
