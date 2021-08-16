@@ -74,6 +74,12 @@
 | ---------- | ----------- | ------------------------------------------------------------ |
 | 2021.07.25 | Status Code | [go](https://github.com/jinsuSang/TIL/blob/main/http/http-status-code.md) |
 
+## Javscript
+
+| Date       | Record                                                   | Link                                        |
+| ---------- | -------------------------------------------------------- | ------------------------------------------- |
+| 2021.08.16 | notes app - yargs, arrow function, strict mode, debugger | [go](https://github.com/jinsuSang/note-app) |
+
 ## Machine Learing
 
 - [kmooc - 딥러닝의 깊이 있는 이해를 위한 머신러닝](https://github.com/jinsuSang/kmooc)
