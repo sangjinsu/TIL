@@ -17,6 +17,10 @@
 
 | Date       | Record                                                | Link                                                         |
 | ---------- | ----------------------------------------------------- | ------------------------------------------------------------ |
+| 2021.08.17 | Inside Javascript - 04 다양한 함수 형태               | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter04-03-function-various-form.md) |
+| 2021.08.17 | Inside Javascript - 04 함수 객체                      | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter04-02-function-object.md) |
+| 2021.08.17 | Inside Javascript - 04 함수 정의와 함수 호이스팅      | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter04-01-function-definition-and-hoisting.md) |
+| 2021.08.17 | Inside Javascript - 03 기본 타입과 표준 메서드        | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter03-04-type-and-standard-method-and-operator.md) |
 | 2021.08.11 | Inside Javascript - 03 배열                           | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter03-03-array.md) |
 | 2021.08.10 | Inside Javascript - 03 자바스크립트 프로토타입        | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter03-02-prototype.md) |
 | 2021.08.10 | Inside Javascript - 03 자바스크립트 기본 및 탐조 타입 | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter03-01-data-type.md) |
