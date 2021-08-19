@@ -81,6 +81,8 @@
 
 ## Javscript
 
+- [**자바스크립트 중고급: 근본 핵심 이해** - 인프런 강의](https://github.com/jinsuSang/javascript-intermediate)
+
 | Date       | Record                                                   | Link                                        |
 | ---------- | -------------------------------------------------------- | ------------------------------------------- |
 | 2021.08.16 | notes app - yargs, arrow function, strict mode, debugger | [go](https://github.com/jinsuSang/note-app) |
