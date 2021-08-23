@@ -8,6 +8,8 @@
 
 | Date       | Record                                                    | Link                                                         |
 | ---------- | --------------------------------------------------------- | ------------------------------------------------------------ |
+| 2021.08.23 | 백트랙킹                                                  | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/05-backtracking.md) |
+| 2021.08.23 | 후위표기법 - 계산법                                       | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/05-stack-calculator-postfix.md) |
 | 2021.08.13 | string pattern - rabin-karp, kmp, boyer-moore, bruteforce | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/03-string-pattern-algorithm.md) |
 | 2021.08.11 | 이진 검색, 선택 정렬, 선택 알고리즘                       | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/02-binarySearch-selectionSorting-selectionAlgorithm.md) |
 | 2021.08.11 | 2차원 배열, 비트 연산자를 이용한 서브셋                   | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/02-2dArray-subset.md) |
