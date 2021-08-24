@@ -19,6 +19,7 @@
 
 | Date       | Record                                                | Link                                                         |
 | ---------- | ----------------------------------------------------- | ------------------------------------------------------------ |
+| 2021.08.24 | Inside Javascript - 04 함수 호출과 this               | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter04-04-function-call-and-this.md) |
 | 2021.08.17 | Inside Javascript - 04 다양한 함수 형태               | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter04-03-function-various-form.md) |
 | 2021.08.17 | Inside Javascript - 04 함수 객체                      | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter04-02-function-object.md) |
 | 2021.08.17 | Inside Javascript - 04 함수 정의와 함수 호이스팅      | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter04-01-function-definition-and-hoisting.md) |
@@ -42,8 +43,6 @@
 | 2021.08.02 | display                                     | [go](https://github.com/jinsuSang/TIL/blob/main/css/css_display.md) |
 | 2021.08.02 | box model                                   | [go](https://github.com/jinsuSang/TIL/blob/main/css/css_box_model.md) |
 | 2021.08.02 | basic css                                   | [go](https://github.com/jinsuSang/TIL/blob/main/css/basic_css.md) |
-
-
 
 ## Django
 
