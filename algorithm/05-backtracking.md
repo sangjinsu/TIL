@@ -1,6 +1,7 @@
 # 백트래킹 알고리즘
 
 - 해를 찾는 도중에 막히면, 해가 아니면 다시 돌아가서 해를 찾는 기법이다
+
 - 최적화 문제와 결정 문제를 해결할 수 있다
   - 결정 문제: 문제의 조건을 만족하는 해가 존재하는지의 여부를 yes 또는 no 가 답하는 문제
     - 미로 찾기
@@ -22,4 +23,67 @@
 
 - 부분집합 구하기
 
+  ```python
+  a = [20, 31, 78]
+  t = [0] * 3
   
+  
+  def powerset(k):
+      if k == 3:
+          print(t)
+      else:
+          t[k] = True
+          powerset(k + 1)
+          t[k] = False
+          powerset(k + 1)
+  
+  
+  def powerset2(k):
+      if k == 3:
+          print(t)
+          for i in range(3):
+              if t[i]:
+                  print(a[i], end=' ')
+          print()
+      else:
+          t[k] = True
+          powerset2(k + 1)
+          t[k] = False
+          powerset2(k + 1)
+  
+  
+  def powerset3(k):
+      if k == 3:
+          for i in range(3):
+              if t[i]:
+                  print(a[i], end=' ')
+          print()
+      else:
+          for i in range(2):
+              t[k] = i
+              powerset3(k + 1)
+  
+  ```
+
+- 순열 구하기
+
+  ```python
+  visited = [False] * 3
+  
+  
+  def per(k):
+      if k == 3:
+          for i in t:
+              print(a[i], end=' ')
+          print()
+      else:
+          for i in range(3):
+              if not visited[i]:
+                  t[k] = i
+                  visited[i] = True
+                  per(k + 1)
+                  visited[i] = False
+  ```
+
+  
+
