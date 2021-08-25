@@ -8,8 +8,9 @@
 
 | Date       | Record                                                    | Link                                                         |
 | ---------- | --------------------------------------------------------- | ------------------------------------------------------------ |
+| 2021.08.24 | queue, 넓이 우선 탐색                                     | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/05-queue-bfs.md) |
 | 2021.08.23 | 백트랙킹                                                  | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/05-backtracking.md) |
-| 2021.08.23 | 후위표기법 - 계산법                                       | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/05-stack-calculator-postfix.md) |
+| 2021.08.23 | stack, 후위표기법 - 계산법                                | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/05-stack-calculator-postfix.md) |
 | 2021.08.13 | string pattern - rabin-karp, kmp, boyer-moore, bruteforce | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/03-string-pattern-algorithm.md) |
 | 2021.08.11 | 이진 검색, 선택 정렬, 선택 알고리즘                       | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/02-binarySearch-selectionSorting-selectionAlgorithm.md) |
 | 2021.08.11 | 2차원 배열, 비트 연산자를 이용한 서브셋                   | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/02-2dArray-subset.md) |
@@ -104,6 +105,7 @@
 
 | Date       | Record                                                      | Link                                                         |
 | ---------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
+| 2021.08.24 | concurrency - coroutine, yield                              | [go](https://github.com/jinsuSang/TIL/blob/main/python/concurrency-coroutine-yield.md) |
 | 2021.08.07 | itertools package                                           | [go](https://github.com/jinsuSang/TIL/blob/main/python/itertools.md) |
 | 2021.08.07 | iterator generator                                          | [go](https://github.com/jinsuSang/TIL/blob/main/python/iterator_generator.md) |
 | 2021.08.01 | 데코레이터                                                  | [go](https://github.com/jinsuSang/TIL/blob/main/python/decorator.md) |
