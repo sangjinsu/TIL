@@ -20,6 +20,9 @@
 
 | Date       | Record                                                | Link                                                         |
 | ---------- | ----------------------------------------------------- | ------------------------------------------------------------ |
+| 2021.08.26 | Inside Javascript - 05 실행 텍스트와 생성 과정        | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter05-01-execution-context-create-process.md) |
+| 2021.08.26 | Inside Javascript - 04  프로토타입 체이닝             | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter04-06-prototype-chaining.md) |
+| 2021.08.26 | Inside Javascript - 04 함수 리턴                      | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter04-05-function-return.md) |
 | 2021.08.24 | Inside Javascript - 04 함수 호출과 this               | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter04-04-function-call-and-this.md) |
 | 2021.08.17 | Inside Javascript - 04 다양한 함수 형태               | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter04-03-function-various-form.md) |
 | 2021.08.17 | Inside Javascript - 04 함수 객체                      | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter04-02-function-object.md) |
