@@ -8,6 +8,7 @@
 
 | Date       | Record                                                    | Link                                                         |
 | ---------- | --------------------------------------------------------- | ------------------------------------------------------------ |
+| 2021.08.27 | tree, heap                                                | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/05-tree-heap.md) |
 | 2021.08.24 | queue, 넓이 우선 탐색                                     | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/05-queue-bfs.md) |
 | 2021.08.23 | 백트랙킹                                                  | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/05-backtracking.md) |
 | 2021.08.23 | stack, 후위표기법 - 계산법                                | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/05-stack-calculator-postfix.md) |
