@@ -53,6 +53,7 @@
 
 | Date       | Record                                                       | Link                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2021.09.01 | Django in ssafy - Django model, orm 을 중심으로              | [go](https://github.com/jinsuSang/TIL/blob/main/django/01_django_model.md) |
 | 2021.08.31 | Django in ssafy - Django intro,  url.py, view.py 중심으로    | [go](https://github.com/jinsuSang/TIL/blob/main/django/00_django_intro.md) |
 | 2021.08.08 | django girls tutorial - Django urls ~ Django ORM(Querysets)  | [go](https://github.com/jinsuSang/django-girls-tutorial)     |
 | 2021.07.25 | django girls tutorial - Post 모델 추가, 관리자, pythonanywhere 배포 |                                                              |
