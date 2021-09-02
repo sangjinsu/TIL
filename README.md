@@ -21,6 +21,8 @@
 
 | Date       | Record                                                | Link                                                         |
 | ---------- | ----------------------------------------------------- | ------------------------------------------------------------ |
+| 2021.09.02 | Inside Javascript - 05 클로저                         | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter05-03-closure.md) |
+| 2021.09.02 | Inside Javascript - 05 스코프 체인                    | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter05-02-scope-chain.md) |
 | 2021.08.26 | Inside Javascript - 05 실행 텍스트와 생성 과정        | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter05-01-execution-context-create-process.md) |
 | 2021.08.26 | Inside Javascript - 04  프로토타입 체이닝             | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter04-06-prototype-chaining.md) |
 | 2021.08.26 | Inside Javascript - 04 함수 리턴                      | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter04-05-function-return.md) |
