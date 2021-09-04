@@ -162,3 +162,7 @@
 | 2021.07.25 | R로 배우는 통계 - 회귀 분석 기초                             | [go](https://github.com/jinsuSang/TIL/blob/main/statistics/statistics-learned-by-r/regression/regression-analysis-basic.md) |
 | 2021.07.18 | R로 배우는 통계 - 상관 계수                                  | [go](https://github.com/jinsuSang/TIL/blob/main/statistics/statistics-learned-by-r/correlation-coefficient.md) |
 
+## Typescript
+
+- [타입스크립트 입문 - 기초부터 실전까지](https://github.com/jinsuSang/typescript-basic)
+
