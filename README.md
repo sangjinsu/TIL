@@ -1,5 +1,9 @@
 # TIL
 
+- [django-to-javascript](https://github.com/jinsuSang/django-to-javascript)
+
+  ssafy 6기 1학기 - pjt 프로젝트들을 express, nest 프레임워크를 사용하여 구현합니다
+
 ## Algorithm
 - [**python**](https://github.com/jinsuSang/python-algorithm)
 - [**javascript**](https://github.com/jinsuSang/javascript-algorithm)
@@ -55,6 +59,7 @@
 
 | Date       | Record                                                       | Link                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2021.09.08 | Django in ssafy - Django static / media file 을 중심으로     | [go](https://github.com/jinsuSang/TIL/blob/main/django/04_django_static_file.md) |
 | 2021.09.01 | Django in ssafy - Django model, orm 을 중심으로              | [go](https://github.com/jinsuSang/TIL/blob/main/django/01_django_model.md) |
 | 2021.08.31 | Django in ssafy - Django intro,  url.py, view.py 중심으로    | [go](https://github.com/jinsuSang/TIL/blob/main/django/00_django_intro.md) |
 | 2021.08.08 | django girls tutorial - Django urls ~ Django ORM(Querysets)  | [go](https://github.com/jinsuSang/django-girls-tutorial)     |
@@ -68,6 +73,8 @@
 | 2021.07.15 | git 사용법 | [go](https://github.com/jinsuSang/TIL/blob/main/git/git.md) |
 
 ## Golang
+
+- [golang concurrency study](https://github.com/jinsuSang/golang-concurrency)   2021.09.08~
 
 | Date       | Record                                         | Link                                                         |
 | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
@@ -98,6 +105,8 @@
 | 2021.08.16 | notes app - yargs, arrow function, strict mode, debugger | [go](https://github.com/jinsuSang/note-app) |
 
 ## Machine Learing
+
+- [tensorflow.js 생활코딩 프로젝트](https://github.com/jinsuSang/tensorflow.js-coding-everyday)
 
 - [kmooc - 딥러닝의 깊이 있는 이해를 위한 머신러닝](https://github.com/jinsuSang/kmooc)
 
@@ -142,6 +151,10 @@
 | 2021.07.15 | python - file read and write                                | [go](https://github.com/jinsuSang/TIL/blob/main/python/file_write.md) |
 
 ### OOP
+
+- [oop-in-typescript](https://github.com/jinsuSang/oop-in-typescript)
+
+  객체지향 프로그래밍 및 설계(JAVA) 수업을 타입스크립트 관점에서 풀이합니다
 
 | Date       | Record                                             | Link                                                         |
 | ---------- | -------------------------------------------------- | ------------------------------------------------------------ |
