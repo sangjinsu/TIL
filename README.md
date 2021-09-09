@@ -10,35 +10,12 @@
 - [**golang**](https://github.com/jinsuSang/golang-algorithm)
 - [**java**](https://github.com/jinsuSang/java-algorithm)
 
-| Date       | Record                                                    | Link                                                         |
-| ---------- | --------------------------------------------------------- | ------------------------------------------------------------ |
-| 2021.08.27 | tree, heap                                                | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/05-tree-heap.md) |
-| 2021.08.24 | queue, 넓이 우선 탐색                                     | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/05-queue-bfs.md) |
-| 2021.08.23 | 백트랙킹                                                  | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/05-backtracking.md) |
-| 2021.08.23 | stack, 후위표기법 - 계산법                                | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/05-stack-calculator-postfix.md) |
-| 2021.08.13 | string pattern - rabin-karp, kmp, boyer-moore, bruteforce | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/03-string-pattern-algorithm.md) |
-| 2021.08.11 | 이진 검색, 선택 정렬, 선택 알고리즘                       | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/02-binarySearch-selectionSorting-selectionAlgorithm.md) |
-| 2021.08.11 | 2차원 배열, 비트 연산자를 이용한 서브셋                   | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/02-2dArray-subset.md) |
-| 2021.08.10 | 버블 정렬, 카운팅 정렬, 완전 탐색, greedy                 | [go](https://github.com/jinsuSang/TIL/blob/main/algorithm/01-algorithm.md) |
-
 ## Book
 
-| Date       | Record                                                | Link                                                         |
-| ---------- | ----------------------------------------------------- | ------------------------------------------------------------ |
-| 2021.09.02 | Inside Javascript - 05 클로저                         | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter05-03-closure.md) |
-| 2021.09.02 | Inside Javascript - 05 스코프 체인                    | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter05-02-scope-chain.md) |
-| 2021.08.26 | Inside Javascript - 05 실행 텍스트와 생성 과정        | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter05-01-execution-context-create-process.md) |
-| 2021.08.26 | Inside Javascript - 04  프로토타입 체이닝             | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter04-06-prototype-chaining.md) |
-| 2021.08.26 | Inside Javascript - 04 함수 리턴                      | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter04-05-function-return.md) |
-| 2021.08.24 | Inside Javascript - 04 함수 호출과 this               | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter04-04-function-call-and-this.md) |
-| 2021.08.17 | Inside Javascript - 04 다양한 함수 형태               | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter04-03-function-various-form.md) |
-| 2021.08.17 | Inside Javascript - 04 함수 객체                      | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter04-02-function-object.md) |
-| 2021.08.17 | Inside Javascript - 04 함수 정의와 함수 호이스팅      | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter04-01-function-definition-and-hoisting.md) |
-| 2021.08.17 | Inside Javascript - 03 기본 타입과 표준 메서드        | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter03-04-type-and-standard-method-and-operator.md) |
-| 2021.08.11 | Inside Javascript - 03 배열                           | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter03-03-array.md) |
-| 2021.08.10 | Inside Javascript - 03 자바스크립트 프로토타입        | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter03-02-prototype.md) |
-| 2021.08.10 | Inside Javascript - 03 자바스크립트 기본 및 탐조 타입 | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter03-01-data-type.md) |
-| 2021.08.10 | Inside Javascript - 01 자바스크립트 기본 개요         | [go](https://github.com/jinsuSang/TIL/blob/main/book/Inside_Javascript/chapter01.md) |
+- [Inside Javascript](https://github.com/jinsuSang/TIL/tree/main/book/Inside_Javascript) 2021.08.10 ~ 2021.09.09
+
+| Date       | Record                                                    | Link                                                         |
+| ---------- | --------------------------------------------------------- | ------------------------------------------------------------ |
 | 2021.07.17 | Clean Code - 부록A. 동시성 II                         | [go](https://github.com/jinsuSang/TIL/blob/main/book/Clean_Code/%EB%B6%80%EB%A1%9DA.%20%EB%8F%99%EC%8B%9C%EC%84%B1%20II.md) |
 | 2021.07.17 | Clean Code - 17. 냄새와 휴리스틱                      | [go](https://github.com/jinsuSang/TIL/blob/main/book/Clean_Code/17.%20%EB%83%84%EC%83%88%EC%99%80%20%ED%9C%B4%EB%A6%AC%EC%8A%A4%ED%8B%B1.md) |
 
