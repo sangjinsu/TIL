@@ -32,10 +32,17 @@
 | 2021.08.02 | box model                                   | [go](https://github.com/jinsuSang/TIL/blob/main/css/css_box_model.md) |
 | 2021.08.02 | basic css                                   | [go](https://github.com/jinsuSang/TIL/blob/main/css/basic_css.md) |
 
+## DB
+
+| Date       | Record                           | Link                                                         |
+| ---------- | -------------------------------- | ------------------------------------------------------------ |
+| 2021.09.14 | DB basic - SQL and basic concept | [go](https://github.com/jinsuSang/TIL/blob/main/db/ssafy-db-basic.md) |
+
 ## Django
 
 | Date       | Record                                                       | Link                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2021.09.14 | Django in ssafy - SQL 과 ORM                                 | [go](https://github.com/jinsuSang/TIL/blob/main/django/db_sql_orm.md) |
 | 2021.09.08 | Django in ssafy - Django static / media file 을 중심으로     | [go](https://github.com/jinsuSang/TIL/blob/main/django/04_django_static_file.md) |
 | 2021.09.01 | Django in ssafy - Django model, orm 을 중심으로              | [go](https://github.com/jinsuSang/TIL/blob/main/django/01_django_model.md) |
 | 2021.08.31 | Django in ssafy - Django intro,  url.py, view.py 중심으로    | [go](https://github.com/jinsuSang/TIL/blob/main/django/00_django_intro.md) |
