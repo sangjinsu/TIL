@@ -42,6 +42,7 @@
 
 | Date       | Record                                                       | Link                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2021.09.15 | Django in ssafy - Authentication System                      | [go](https://github.com/jinsuSang/TIL/blob/main/django/django_authentication_system.md) |
 | 2021.09.14 | Django in ssafy - SQL 과 ORM                                 | [go](https://github.com/jinsuSang/TIL/blob/main/django/db_sql_orm.md) |
 | 2021.09.08 | Django in ssafy - Django static / media file 을 중심으로     | [go](https://github.com/jinsuSang/TIL/blob/main/django/04_django_static_file.md) |
 | 2021.09.01 | Django in ssafy - Django model, orm 을 중심으로              | [go](https://github.com/jinsuSang/TIL/blob/main/django/01_django_model.md) |
