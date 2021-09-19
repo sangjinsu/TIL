@@ -90,6 +90,13 @@
 | ---------- | -------------------------------------------------------- | ------------------------------------------- |
 | 2021.08.16 | notes app - yargs, arrow function, strict mode, debugger | [go](https://github.com/jinsuSang/note-app) |
 
+## [K-MOOC](https://github.com/jinsuSang/kmooc)
+
+- 인공지능의 기초 2021.09.19~
+- 언어와 인간 2021.09.11~
+- 언어학과 인공지능 2021.09.19~
+- 컴퓨터 네트워킹 2021.09.11~
+
 ## Machine Learing
 
 - [tensorflow.js 생활코딩 프로젝트](https://github.com/jinsuSang/tensorflow.js-coding-everyday)
