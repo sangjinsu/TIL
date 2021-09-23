@@ -16,6 +16,7 @@
 
 | Date       | Record                                                       | Link                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2021.09.24 | 살면서 한번은 경제학 공부 - 3강 우리가 함께 사는 경제적 이유, 삶의 행복을 키우는 교환 경제 | [go](https://github.com/jinsuSang/TIL/blob/main/book/studying_economics_once_in_my_life/studying_economics_once_in_my_life.md) |
 | 2021.09.22 | Clean Architecture - 1. 소개, design과 architecture, 행위 behavior와 구조 structure 라는 가치 | [go](https://github.com/jinsuSang/TIL/blob/main/book/Clean_Architecture/01_intro.md) |
 | 2021.09.22 | 살면서 한번은 경제학 공부 - 2강 혼자 살면 행복할까, 로빈슨 크루소에게 배우는 경제 원리 | [go](https://github.com/jinsuSang/TIL/blob/main/book/studying_economics_once_in_my_life/studying_economics_once_in_my_life.md) |
 | 2021.09.16 | 살면서 한번은 경제학 공부 - 1강 경제학, 내 삶을 이해하는 유용한 도구 | [go](https://github.com/jinsuSang/TIL/blob/main/book/studying_economics_once_in_my_life/studying_economics_once_in_my_life.md) |
