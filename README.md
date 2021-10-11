@@ -72,6 +72,8 @@
 
 | Date       | Record                                         | Link                                                         |
 | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
+| 2021.10.11 | Go는 개체지향 언어인가?                        | [go](https://github.com/ruslanlvivsky/TIL/blob/main/golang/golang-is-oo.md) |
+| 2021.10.11 | Go 언어 가비지 컬렉터                          | [go](https://github.com/ruslanlvivsky/TIL/blob/main/golang/garbage-collector.md) |
 | 2021.08.19 | golang - test and workbench                    | [go](https://github.com/jinsuSang/golang-test-benchmark)     |
 | 2021.08.01 | golang - panic and recover                     | [go](https://github.com/jinsuSang/panic-and-recover)         |
 | 2021.07.25 | :heavy_check_mark:golang - word search program | [go](https://github.com/jinsuSang/wordsearch)                |
