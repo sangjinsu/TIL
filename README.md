@@ -16,6 +16,7 @@
 
 | Date       | Record                                                       | Link                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2021.10.11 | Clean Architecture - 2. 프로그래밍 패러다임, OO 언어의 다형성 | [go](https://github.com/ruslanlvivsky/TIL/blob/main/book/Clean_Architecture/02_programming_paradigm.md) |
 | 2021.10.10 | 살면서 한번은 경제학 공부 - 5강 우리의 행동을 바꾸는 기울기의 비밀, 가격에 대한 반응의 크기 | [go](https://github.com/jinsuSang/TIL/blob/main/book/studying_economics_once_in_my_life/studying_economics_once_in_my_life.md) |
 | 2021.10.10 | 자연어 처리 바이블 - 2. 자연어 처리를 위한 수학              | [go](https://github.com/ruslanlvivsky/TIL/blob/main/book/natural-language-processing-bible/chapter02.md) |
 | 2021.10.08 | 자연어 처리 바이블 - 1. 자연어 처리의 기본                   | [go](https://github.com/ruslanlvivsky/TIL/blob/main/book/natural-language-processing-bible/chapter01.md) |
