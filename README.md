@@ -12,6 +12,7 @@
 
 ## Book
 
+- 생각에 관한 생각 2021.10.12 ~
 - [Inside Javascript](https://github.com/jinsuSang/TIL/tree/main/book/Inside_Javascript) 2021.08.10 ~ 2021.09.09
 
 | Date       | Record                                                       | Link                                                         |
