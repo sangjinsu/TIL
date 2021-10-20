@@ -1,0 +1,15 @@
+| Date       | Record                                                       | Link                                                         |
+| ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2021.10.20 | 자연어 처리 바이블 - 3. 언어학의 기본 원리                   | [go](https://github.com/ruslanlvivsky/TIL/blob/main/book/natural-language-processing-bible/chapter03.md) |
+| 2021.10.11 | Clean Architecture - 2. 프로그래밍 패러다임, OO 언어의 다형성 | [go](https://github.com/ruslanlvivsky/TIL/blob/main/book/Clean_Architecture/02_programming_paradigm.md) |
+| 2021.10.10 | 살면서 한번은 경제학 공부 - 5강 우리의 행동을 바꾸는 기울기의 비밀, 가격에 대한 반응의 크기 | [go](https://github.com/jinsuSang/TIL/blob/main/book/studying_economics_once_in_my_life/studying_economics_once_in_my_life.md) |
+| 2021.10.10 | 자연어 처리 바이블 - 2. 자연어 처리를 위한 수학              | [go](https://github.com/ruslanlvivsky/TIL/blob/main/book/natural-language-processing-bible/chapter02.md) |
+| 2021.10.08 | 자연어 처리 바이블 - 1. 자연어 처리의 기본                   | [go](https://github.com/ruslanlvivsky/TIL/blob/main/book/natural-language-processing-bible/chapter01.md) |
+| 2021.10.05 | 살면서 한번은 경제학 공부 - 4강 내 지갑을 조종하는 이자율의 의미, 시간과 돈의 가격 | [go](https://github.com/jinsuSang/TIL/blob/main/book/studying_economics_once_in_my_life/studying_economics_once_in_my_life.md) |
+| 2021.09.24 | 살면서 한번은 경제학 공부 - 3강 우리가 함께 사는 경제적 이유, 삶의 행복을 키우는 교환 경제 | [go](https://github.com/jinsuSang/TIL/blob/main/book/studying_economics_once_in_my_life/studying_economics_once_in_my_life.md) |
+| 2021.09.22 | Clean Architecture - 1. 소개, design과 architecture, 행위 behavior와 구조 structure 라는 가치 | [go](https://github.com/jinsuSang/TIL/blob/main/book/Clean_Architecture/01_intro.md) |
+| 2021.09.22 | 살면서 한번은 경제학 공부 - 2강 혼자 살면 행복할까, 로빈슨 크루소에게 배우는 경제 원리 | [go](https://github.com/jinsuSang/TIL/blob/main/book/studying_economics_once_in_my_life/studying_economics_once_in_my_life.md) |
+| 2021.09.16 | 살면서 한번은 경제학 공부 - 1강 경제학, 내 삶을 이해하는 유용한 도구 | [go](https://github.com/jinsuSang/TIL/blob/main/book/studying_economics_once_in_my_life/studying_economics_once_in_my_life.md) |
+| 2021.07.17 | Clean Code - 부록A. 동시성 II                                | [go](https://github.com/jinsuSang/TIL/blob/main/book/Clean_Code/%EB%B6%80%EB%A1%9DA.%20%EB%8F%99%EC%8B%9C%EC%84%B1%20II.md) |
+| 2021.07.17 | Clean Code - 17. 냄새와 휴리스틱                             | [go](https://github.com/jinsuSang/TIL/blob/main/book/Clean_Code/17.%20%EB%83%84%EC%83%88%EC%99%80%20%ED%9C%B4%EB%A6%AC%EC%8A%A4%ED%8B%B1.md) |
+
