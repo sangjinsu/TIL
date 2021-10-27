@@ -85,7 +85,7 @@
 
 ## Javscript
 
-- [**자바스크립트 중고급: 근본 핵심 이해** - 인프런 강의](https://github.com/jinsuSang/javascript-intermediate)
+- [**자바스크립트 중고급: 근본 핵심 이해** - 인프런 강의 수료](https://github.com/jinsuSang/javascript-intermediate)
 
 | Date       | Record                                                   | Link                                        |
 | ---------- | -------------------------------------------------------- | ------------------------------------------- |
