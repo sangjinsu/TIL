@@ -12,9 +12,9 @@
 
 ## [Book](https://github.com/ruslanlvivsky/TIL/tree/main/book)
 
+- 생각의 탄생 2021.11.03 ~
 - 생각에 관한 생각 2021.10.12 ~
-- [Inside Javascript](https://github.com/jinsuSang/TIL/tree/main/book/Inside_Javascript) 2021.08.10 ~ 2021.09.09
-
+- [Inside Javascript](https://github.com/jinsuSang/TIL/tree/main/book/Inside_Javascript) 2021.08.10 ~ 2021.09.09  
 - 살면서 한번은 경제학 공부 2021.09.16 ~
 - Clean Architecture 2021.09.22 ~
 - 자연어 처리 바이블 2021.10.08 ~
@@ -85,7 +85,7 @@
 
 ## Javscript
 
-- [**자바스크립트 중고급: 근본 핵심 이해** - 인프런 강의](https://github.com/jinsuSang/javascript-intermediate)
+- [**자바스크립트 중고급: 근본 핵심 이해** - 인프런 강의 수료](https://github.com/jinsuSang/javascript-intermediate)
 
 | Date       | Record                                                   | Link                                        |
 | ---------- | -------------------------------------------------------- | ------------------------------------------- |
@@ -93,9 +93,9 @@
 
 ## [K-MOOC](https://github.com/jinsuSang/kmooc)
 
-- 인공지능의 기초 2021.09.19~
+- 인공지능의 기초 2021.09.19~2021.11.02 수료 
 - 언어와 인간 2021.09.11~
-- 언어학과 인공지능 2021.09.19~
+- 언어학과 인공지능 2021.09.19~2021.11.02 수료
 - 컴퓨터 네트워킹 2021.09.11~
 
 ## Machine Learing
