@@ -12,9 +12,9 @@
 
 ## [Book](https://github.com/ruslanlvivsky/TIL/tree/main/book)
 
+- 생각의 탄생 2021.11.03 ~
 - 생각에 관한 생각 2021.10.12 ~
-- [Inside Javascript](https://github.com/jinsuSang/TIL/tree/main/book/Inside_Javascript) 2021.08.10 ~ 2021.09.09
-
+- [Inside Javascript](https://github.com/jinsuSang/TIL/tree/main/book/Inside_Javascript) 2021.08.10 ~ 2021.09.09  
 - 살면서 한번은 경제학 공부 2021.09.16 ~
 - Clean Architecture 2021.09.22 ~
 - 자연어 처리 바이블 2021.10.08 ~
